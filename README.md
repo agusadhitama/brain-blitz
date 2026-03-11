@@ -10,7 +10,7 @@ Players must answer math questions quickly to increase their **score, combo stre
 
 Play the game here:
 
-👉 https://agusadhitama.github.io/game-berhitung/
+👉 https://agusadhitama.github.io/brain-blitz/
 
 ---
 
